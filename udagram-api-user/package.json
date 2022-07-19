@@ -1,6 +1,6 @@
 {
-  "name": "udacity-c2-restapi",
-  "version": "1.0.0",
+  "name": "udacity-api-user",
+  "version": "2.0.0",
   "description": "",
   "main": "src/server.js",
   "scripts": {
