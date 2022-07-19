@@ -41,6 +41,8 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
+/deployment/k8s
+
 
 # Stop git from tracking the set_env.sh file
 git rm --cached set_env.sh
